@@ -16,8 +16,5 @@
   },
   "devDependencies": {
     "pnp-webpack-plugin": "^1.6.4"
-  },
-  "installConfig": {
-    "pnp": true
   }
 }
